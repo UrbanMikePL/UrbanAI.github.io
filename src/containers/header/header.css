@@ -1,0 +1,223 @@
+/*Header TEXT*/ 
+
+.urbangpt__header-content-text h1 {
+    display: flex;
+     font-size: 45px;
+     width: 510px;
+     flex-wrap: wrap;
+    
+}
+.urbangpt__header {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 6rem;
+}
+
+
+.urbangpt__header-content {
+    display: flex;
+    font-family: var(--font-family);
+    color:white;
+    line-height: 43px;
+}
+.urbangpt__header-content p {
+    color:whitesmoke;
+  padding: 25px 0px;
+  width: 470px;
+ font-size: 18px;
+}
+/* INPUT YOUR EMAIL ADDRESS*/
+.urbangpt__header-content__input input {
+    height: 30px;
+    width: 300px;
+   border-radius: 5px;
+   background: radial-gradient(circle at 50% 50%, rgb(8, 86, 168) 0%, rgba(4, 12, 24, 1) 100%);
+  color: white;
+  
+  
+}
+.urbangpt__header-content__input input::placeholder {
+    color: white;
+    text-align: center;
+}
+.urbangpt__header-content__input input:focus {
+    color: white;
+    background-color: white;
+    font: none;
+}
+/*Get Started BUTTON*/
+.urbangpt__header-content__input button {
+   background-color: limegreen;
+   color: white;
+   width: 100px;
+   height: 32px;
+   font-weight: 700;
+   cursor: pointer;
+   border: none;
+   border-radius: 7%;
+}
+.urbangpt__header-content__input button:hover {
+   background-color: lime; 
+   
+}
+/*3D IMAGE*/
+.urbangpt__header-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.urbangpt__header-image img {
+    width: 500px;
+    height: 450px;
+}
+/*PEOPLE JOIN*/
+.urbangpt__header-content_people  {
+  display: flex;
+   width: 430px;
+ 
+}
+.urbangpt__header-content_people p {
+    font-size: 13px;
+    color:rgb(206, 206, 206);  
+   padding: 13px;
+}
+.urbangpt__header-content_people img {
+     padding-top: 10px;
+     height: 35px;
+}
+/*LOGOS BRAND */
+.urbangpt__header-content_logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.urbangpt__header-content_logos img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 20px 20px;
+   
+}
+
+
+
+@media screen and (max-width: 550px) {
+    .urbangpt__header-content-text h1 {
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+        text-align: center;
+        font-size: 35px;
+        
+    }
+    .urbangpt__header {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+    .urbangpt__header-image img {
+        width: 350px;
+        height: 280px;
+    }
+    .urbangpt__header-content  {
+        display: flex;
+        flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .urbangpt__header-content p {
+       
+       font-size: 15px;
+      text-align: center;
+    }
+    .urbangpt__header-content_logos {
+       display: flex;
+       flex-direction: column;  
+     }
+     /* INPUT YOUR EMAIL ADDRESS*/
+     .urbangpt__header-content__input {
+        display: flex;
+  align-items: center;
+  justify-content: center;
+     }
+.urbangpt__header-content__input input {
+
+    height: 30px;
+    width: 230px;
+}
+
+
+/*PEOPLE REQUEST*/
+.urbangpt__header-content_people p {
+    font-size: 14px; 
+   
+}
+.urbangpt__header-content_people img {
+     padding-top: 5px;
+     height: 35px;
+}
+}
+
+@media screen and (max-width: 700px) {
+    .urbangpt__header-content-text h1 {
+        text-align: center;
+       font-size: 37px;
+       margin-left: auto;
+       margin-right: auto;
+    }
+    .urbangpt__header-content  {
+        display: flex;
+        flex-direction: column;
+    }
+    .urbangpt__header-content p {
+     font-size: 18px;
+     text-align: center;
+     margin-left: auto;
+     margin-right: auto;
+    }
+      /* INPUT YOUR EMAIL ADDRESS*/
+      .urbangpt__header-content__input {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     }
+.urbangpt__header-content__input input {
+   height: 30px;
+    width: 260px;
+}
+/*PEOPLE REQUEST*/
+.urbangpt__header-content_people {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.urbangpt__header-content_people p {
+    font-size: 14px; 
+}
+.urbangpt__header-content_people img {
+     padding-top: 5px;
+     height: 35px;
+}
+    /*LOGOS BRAND */
+.urbangpt__header-content_logos {
+    display: block;
+    align-items: center;
+    justify-content: center;
+   width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+}
+
+@media screen and (max-width: 1050px) {
+    .urbangpt__header-content-text h1 {
+        width: 480px;
+    }
+    .urbangpt__header-content p {
+       width: 420px;
+    }
+}
