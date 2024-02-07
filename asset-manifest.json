@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/UrbanAIALPHA.github.io/static/css/main.56794ad7.css",
+    "main.css": "/UrbanAIALPHA.github.io/static/css/main.ce1fab96.css",
     "main.js": "/UrbanAIALPHA.github.io/static/js/main.90e6d24b.js",
     "static/media/possibility.png": "/UrbanAIALPHA.github.io/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/UrbanAIALPHA.github.io/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -12,11 +12,11 @@
     "static/media/logo (6).png": "/UrbanAIALPHA.github.io/static/media/logo (6).d9c89b9619f580ee8cb7.png",
     "static/media/people.png": "/UrbanAIALPHA.github.io/static/media/people.5cd2d6fbcd48bd63f106.png",
     "index.html": "/UrbanAIALPHA.github.io/index.html",
-    "main.56794ad7.css.map": "/UrbanAIALPHA.github.io/static/css/main.56794ad7.css.map",
+    "main.ce1fab96.css.map": "/UrbanAIALPHA.github.io/static/css/main.ce1fab96.css.map",
     "main.90e6d24b.js.map": "/UrbanAIALPHA.github.io/static/js/main.90e6d24b.js.map"
   },
   "entrypoints": [
-    "static/css/main.56794ad7.css",
+    "static/css/main.ce1fab96.css",
     "static/js/main.90e6d24b.js"
   ]
 }
