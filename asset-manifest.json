@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UrbanAI.github.io/static/css/main.6550f911.css",
-    "main.js": "/UrbanAI.github.io/static/js/main.3e6b5fd2.js",
+    "main.js": "/UrbanAI.github.io/static/js/main.fbdac30c.js",
     "static/media/possibility.png": "/UrbanAI.github.io/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/UrbanAI.github.io/static/media/blog01.cefc0932eae0d33a0342.png",
     "static/media/URBANHEADER.png": "/UrbanAI.github.io/static/media/URBANHEADER.5936f745a788c0e636de.png",
@@ -13,10 +13,10 @@
     "static/media/people.png": "/UrbanAI.github.io/static/media/people.5cd2d6fbcd48bd63f106.png",
     "index.html": "/UrbanAI.github.io/index.html",
     "main.6550f911.css.map": "/UrbanAI.github.io/static/css/main.6550f911.css.map",
-    "main.3e6b5fd2.js.map": "/UrbanAI.github.io/static/js/main.3e6b5fd2.js.map"
+    "main.fbdac30c.js.map": "/UrbanAI.github.io/static/js/main.fbdac30c.js.map"
   },
   "entrypoints": [
     "static/css/main.6550f911.css",
-    "static/js/main.3e6b5fd2.js"
+    "static/js/main.fbdac30c.js"
   ]
 }
