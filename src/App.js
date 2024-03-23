@@ -19,7 +19,7 @@ const App = () => {
        <Features />
        <CTA />
        <Blog />
-       <Footer/>
+       <Footer />
        <Brand />
     </div>
   )
